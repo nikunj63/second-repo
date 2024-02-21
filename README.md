@@ -1,2 +1,0 @@
-# second-repo
-second project
